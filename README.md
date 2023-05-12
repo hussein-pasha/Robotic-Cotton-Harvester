@@ -1,2 +1,5 @@
 # Robotic-Cotton-Harvester
-https://youtu.be/WnzJNlSS5iU
+
+
+Lab test video: https://youtu.be/WnzJNlSS5iU
+Field test video: https://youtu.be/WnzJNlSS5iU
