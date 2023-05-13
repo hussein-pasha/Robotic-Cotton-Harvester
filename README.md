@@ -7,3 +7,7 @@ This repository includes three datasets used to train YOLOv4-tiny network for co
 Lab test video (2021): https://youtu.be/WnzJNlSS5iU
 Field test video (2022): https://youtu.be/IztKk3E7zSc
 
+# Use
+All data is subject to copyright and may only be used for non-commercial research. In case of use please cite our publication.
+
+Contact Hussein Gharakhani (Gharakhani@abe.msstate.edu) for any questions.
